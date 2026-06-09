@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Check-out y atención de PQRS',
+    Name: '<em>Check-out</em> y atención de PQRS',
     Description:
-      'El componente formativo Check-out y atención de PQRS aborda los procedimientos técnicos y operativos relacionados con la salida del huésped, la gestión de pagos, la atención de inconformidades y la calidad del servicio en establecimientos de alojamiento. Además, incorpora elementos asociados a transformación digital, automatización de procesos y atención virtual al cliente dentro de la operación hotelera moderna.',
+      'El componente formativo <em>Check-out</em> y atención de PQRS aborda los procedimientos técnicos y operativos relacionados con la salida del huésped, la gestión de pagos, la atención de inconformidades y la calidad del servicio en establecimientos de alojamiento. Además, incorpora elementos asociados a transformación digital, automatización de procesos y atención virtual al cliente dentro de la operación hotelera moderna.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [],
@@ -23,7 +23,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Proceso de check-out hotelero',
+        titulo: 'Proceso de <em>check-out</em> hotelero',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -38,7 +38,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Atención al huésped durante el check-out',
+            titulo: 'Atención al huésped durante el <em>check-out</em>',
             hash: 't_1_3',
           },
           {
@@ -102,7 +102,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Transformación digital aplicada al check-out',
+        titulo: 'Transformación digital aplicada al <em>check-out</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -112,7 +112,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Procesos automatizados en el check-out',
+            titulo: 'Procesos automatizados en el <em>check-out</em>',
             hash: 't_4_2',
           },
           {
