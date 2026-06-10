@@ -96,8 +96,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 2.
           span Canales de atención de PQRS 
-        img(data-aos="fade-down", src="@/assets/curso/tema2/img10.svg", alt="La figura 2 presenta los seis canales utilizados por los establecimientos hoteleros para recibir peticiones, quejas, reclamos y sugerencias de los huéspedes. El primer canal corresponde a Atención presencial, representa la interacción directa entre el cliente y el personal del establecimiento. El segundo canal es Llamadas telefónicas y hace referencia a la atención de solicitudes e inconformidades mediante comunicación telefónica. El tercer canal corresponde a Correo electrónico, representa el envío y recepción de solicitudes o reclamaciones por medios digitales escritos. El cuarto canal es Formularios digitales, indica el registro virtual de PQRS mediante plataformas digitales. El quinto canal corresponde a Plataformas web y representa la atención y gestión de solicitudes a través de sitios web institucionales. El sexto canal es Redes sociales y hace referencia a la interacción y atención de comentarios o reclamaciones mediante plataformas sociales en línea.").mx-auto
-        figcaption Nota.  SENA, (2026).
+        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema2/img10.svg", alt="La figura 2 presenta los seis canales utilizados por los establecimientos hoteleros para recibir peticiones, quejas, reclamos y sugerencias de los huéspedes. El primer canal corresponde a Atención presencial, representa la interacción directa entre el cliente y el personal del establecimiento. El segundo canal es Llamadas telefónicas y hace referencia a la atención de solicitudes e inconformidades mediante comunicación telefónica. El tercer canal corresponde a Correo electrónico, representa el envío y recepción de solicitudes o reclamaciones por medios digitales escritos. El cuarto canal es Formularios digitales, indica el registro virtual de PQRS mediante plataformas digitales. El quinto canal corresponde a Plataformas web y representa la atención y gestión de solicitudes a través de sitios web institucionales. El sexto canal es Redes sociales y hace referencia a la interacción y atención de comentarios o reclamaciones mediante plataformas sociales en línea.").mx-auto
+        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img10m.svg", alt="La figura 2 presenta los seis canales utilizados por los establecimientos hoteleros para recibir peticiones, quejas, reclamos y sugerencias de los huéspedes. El primer canal corresponde a Atención presencial, representa la interacción directa entre el cliente y el personal del establecimiento. El segundo canal es Llamadas telefónicas y hace referencia a la atención de solicitudes e inconformidades mediante comunicación telefónica. El tercer canal corresponde a Correo electrónico, representa el envío y recepción de solicitudes o reclamaciones por medios digitales escritos. El cuarto canal es Formularios digitales, indica el registro virtual de PQRS mediante plataformas digitales. El quinto canal corresponde a Plataformas web y representa la atención y gestión de solicitudes a través de sitios web institucionales. El sexto canal es Redes sociales y hace referencia a la interacción y atención de comentarios o reclamaciones mediante plataformas sociales en línea.").mx-auto
+        figcaption Nota. SENA, (2026).
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
@@ -365,7 +366,7 @@
                 p.mb-0 Para complementar este tema, lo invitamos a consultar el siguiente video, en el cual se profundiza sobre las PQRS presentadas por los clientes y el impacto que estas pueden generar en la reputación de los establecimientos de alojamiento: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Egyb_eXdbI0" target="_blank")
-                  span Ver enlace
+                  span Ver video
                   i.fas.fa-play-circle
 
     
