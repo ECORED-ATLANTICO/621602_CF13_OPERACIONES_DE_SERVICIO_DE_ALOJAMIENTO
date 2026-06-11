@@ -17,7 +17,8 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Evaluando procesos de check-out y atención de PQRS en hotelería',
+      tema:
+        'Evaluando procesos de <em>check-out</em> y atención de PQRS en hotelería',
       titulo: 'Cuestionario',
       introduccion:
         '<b>Objetivo:</b> reconocer los procedimientos operativos, tecnológicos y de atención relacionados con el proceso de salida del huésped, la gestión de PQRS y la calidad del servicio en establecimientos de alojamiento.',
@@ -28,7 +29,7 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es el propósito principal del proceso de check-out en hotelería?',
+            '¿Cuál es el propósito principal del proceso de <em>check-out</em> en hotelería?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -177,7 +178,7 @@ export default {
         {
           id: 7,
           texto:
-            '¿Qué situación puede generar inconformidad durante el check-out?',
+            '¿Qué situación puede generar inconformidad durante el <em>check-out</em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -203,7 +204,7 @@ export default {
             { id: 'a', texto: 'VPN', esCorrecta: false },
             {
               id: 'b',
-              texto: 'PMS (Property Management System)',
+              texto: 'PMS (<em>Property Management System</em>)',
               esCorrecta: true,
             },
             { id: 'c', texto: 'GPS', esCorrecta: false },
@@ -214,7 +215,7 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Cuál es una ventaja del self-check-out?',
+          texto: '¿Cuál es una ventaja del <em>self-check-out</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -421,7 +422,8 @@ export default {
         },
         {
           id: 18,
-          texto: '¿Qué acción ayuda a disminuir errores durante el check-out?',
+          texto:
+            '¿Qué acción ayuda a disminuir errores durante el <em>check-out</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

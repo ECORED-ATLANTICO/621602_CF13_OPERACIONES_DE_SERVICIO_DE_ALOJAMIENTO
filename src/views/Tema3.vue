@@ -143,7 +143,10 @@
                 h4.mb-3 Solicitudes especiales no registradas
                 p.mb-0 El incumplimiento de requerimientos acordados previamente puede generar reclamaciones o insatisfacción del huésped.
 
-    p.mb-4 Estas situaciones requieren coordinación entre áreas y capacidad de respuesta oportuna para evitar afectar la experiencia del huésped. En muchos establecimientos, la atención de novedades involucra departamentos como recepción, ama de llaves, mantenimiento, contabilidad y servicio al huésped, cuya adecuada comunicación facilita soluciones más rápidas y disminuye errores operativos. Asimismo, el manejo eficiente de estas situaciones permite fortalecer la percepción de calidad y demostrar compromiso con el servicio ofrecido.
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-12
+        .bg-fondo-11.px-lg-4.py-lg-4.px-4.py-3.br-15.mb-0
+          p.mb-0 Estas situaciones requieren coordinación entre áreas y capacidad de respuesta oportuna para evitar afectar la experiencia del huésped. En muchos establecimientos, la atención de novedades involucra departamentos como recepción, ama de llaves, mantenimiento, contabilidad y servicio al huésped, cuya adecuada comunicación facilita soluciones más rápidas y disminuye errores operativos. Asimismo, el manejo eficiente de estas situaciones permite fortalecer la percepción de calidad y demostrar compromiso con el servicio ofrecido.
 
     separador
     
