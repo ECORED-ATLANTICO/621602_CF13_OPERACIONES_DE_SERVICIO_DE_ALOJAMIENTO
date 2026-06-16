@@ -131,7 +131,7 @@
             h5.mb-2.text-center Cargos pendientes
             p.mb-1.text-center Situación: servicios consumidos no se incluyen en la factura final.
             p.mb-1.text-center Consecuencia: pérdidas económicas y reprocesos.
-            p.mb-0.text-center Recomendación: establecer cortes operativos antes del <em>checkout</em>.
+            p.mb-0.text-center Recomendación: establecer cortes operativos antes del <em>check-out</em>.
 
 
     .row.align-items-center.mb-4.mb-lg-5
@@ -229,7 +229,7 @@
           img(src="@/assets/curso/tema1/img25.png", data-aos="zoom-in").mx-auto
 
       .col-lg-9
-        p.mb-0(data-aos="fade-right") Estas soluciones contribuyen a disminuir tiempos de espera y facilitan experiencias más ágiles para el huésped.
+        p.mb-3(data-aos="fade-right") Estas soluciones contribuyen a disminuir tiempos de espera y facilitan experiencias más ágiles para el huésped.
         p.mb-3 En algunos establecimientos, el huésped puede realizar parte del proceso de salida mediante aplicaciones móviles o plataformas de autoservicio, validando consumos y efectuando pagos sin necesidad de interacción presencial permanente con el personal de recepción. Estas tendencias responden a nuevas dinámicas del turismo y a usuarios que valoran rapidez, conectividad y autonomía durante la prestación del servicio.
         p.mb-3 Sin embargo, el uso de herramientas tecnológicas también requiere control y supervisión operativa. La actualización permanente de registros, la verificación de transacciones y la correcta administración de la información continúan siendo aspectos fundamentales para garantizar precisión y seguridad durante el proceso de salida.
 

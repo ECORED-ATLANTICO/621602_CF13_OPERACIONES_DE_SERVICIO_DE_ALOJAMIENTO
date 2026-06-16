@@ -240,7 +240,7 @@
               figure
                 img(src="@/assets/curso/tema4/img20.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Correo electrónico:</b> Permite enviar facturas y soportes digitales relacionados con la estadía.
+              p.mb-0 <b>Correo electrónico:</b> permite enviar facturas y soportes digitales relacionados con la estadía.
         
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center.mb-0
@@ -248,7 +248,7 @@
               figure  
                 img(src="@/assets/curso/tema4/img21.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Mensajería instantánea:</b> Facilita respuestas rápidas frente a inquietudes del huésped.
+              p.mb-0 <b>Mensajería instantánea:</b> facilita respuestas rápidas frente a inquietudes del huésped.
         
         .crd.crd--avatarHorizontal.py-4.crd--three
           .row.align-items-center.mb-0
@@ -256,7 +256,7 @@
               figure
                 img(src="@/assets/curso/tema4/img22.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Aplicaciones móviles:</b> Permiten validar información y gestionar procesos de salida.
+              p.mb-0 <b>Aplicaciones móviles:</b> permiten validar información y gestionar procesos de salida.
         
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center.mb-0
@@ -264,7 +264,7 @@
               figure
                 img(src="@/assets/curso/tema4/img23.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Encuestas digitales:</b> Ayudan a conocer la percepción del huésped sobre el servicio recibido.
+              p.mb-0 <b>Encuestas digitales:</b> ayudan a conocer la percepción del huésped sobre el servicio recibido.
         
         .crd.crd--avatarHorizontal.crd--four.py-4
           .row.align-items-center.mb-0
@@ -272,7 +272,7 @@
               figure
                 img(src="@/assets/curso/tema4/img24.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Confirmaciones automáticas:</b> Informan pagos y validaciones relacionadas con el <em>check-out</em>.
+              p.mb-0 <b>Confirmaciones automáticas:</b> informan pagos y validaciones relacionadas con el <em>check-out</em>.
         
         .crd.crd--avatarHorizontal.crd--fin.py-4
           .row.align-items-center.mb-0
@@ -280,7 +280,7 @@
               figure
                 img(src="@/assets/curso/tema4/img25.svg", alt="alt").img100
             .col-lg-8.col
-              p.mb-0 <b>Plataformas de autoservicio:</b> Facilitan procesos más ágiles y organizados durante la salida.
+              p.mb-0 <b>Plataformas de autoservicio:</b> facilitan procesos más ágiles y organizados durante la salida.
 
 
     p.mb-4 El uso de herramientas digitales durante el proceso de <em>check-out</em> permite mantener una comunicación más organizada y eficiente entre el establecimiento y el huésped, contribuyendo a disminuir tiempos de atención en recepción y optimizar diferentes procedimientos operativos. Estas soluciones facilitan el envío de facturas electrónicas, la confirmación de pagos, la validación de reservas, la atención de solicitudes y el seguimiento posterior a la estadía de manera más ágil y centralizada.

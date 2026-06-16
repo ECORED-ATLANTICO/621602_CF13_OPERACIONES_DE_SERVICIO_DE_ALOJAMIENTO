@@ -366,7 +366,7 @@
                 p.mb-0 Para complementar este tema, lo invitamos a consultar el siguiente video, en el cual se profundiza sobre las PQRS presentadas por los clientes y el impacto que estas pueden generar en la reputación de los establecimientos de alojamiento: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Egyb_eXdbI0" target="_blank")
-                  span Ver video
+                  span Enlace video
                   i.fas.fa-play-circle
 
     
