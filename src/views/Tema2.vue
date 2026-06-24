@@ -381,7 +381,7 @@
               p(data-aos="fade-left").mb-4 Adicionalmente, le invitamos a revisar el siguiente pódcast para profundizar los conceptos y situaciones  que se presentan cuando se genera una PQRS en Hoteles y establecimientos turísticos:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Importancia del historial del huésped y el seguimiento de reservas en la operación hotelera"
+                texto="PQRS en establecimientos de alojamiento"
                 tiempo
                 :audio="require('@/assets/curso/audio/1.mp3')"
               )

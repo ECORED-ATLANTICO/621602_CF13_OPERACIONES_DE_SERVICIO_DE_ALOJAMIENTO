@@ -346,7 +346,7 @@ export default {
     {
       referencia:
         'Oracle Hospitality. (2023). <em>Property Management Systems (PMS)</em>.',
-      link: 'https://www.oracle.com/hospitality/property-management/',
+      link: '',
     },
     {
       referencia:

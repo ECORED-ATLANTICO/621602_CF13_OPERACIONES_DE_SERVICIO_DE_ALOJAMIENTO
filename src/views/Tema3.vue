@@ -218,9 +218,9 @@
               p(data-aos="fade-left").mb-4 De igual forma, en el pódcast a continuación, podrá afianzar sus conocimientos con relación a la calidad del servicio y solución de novedades en establecimientos de alojamiento: 
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Importancia del historial del huésped y el seguimiento de reservas en la operación hotelera"
+                texto="Calidad del servicio y solución de novedades"
                 tiempo
-                :audio="require('@/assets/curso/audio/1.mp3')"
+                :audio="require('@/assets/curso/audio/2.mp3')"
               )
 
 
