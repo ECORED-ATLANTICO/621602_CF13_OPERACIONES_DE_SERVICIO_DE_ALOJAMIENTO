@@ -41,14 +41,14 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Revisión de consumos
-              p.mb-0 En muchos establecimientos de alojamiento, el área de recepción mantiene comunicación permanente con departamentos como ama de llaves, restaurante o auditoría para confirmar el estado de la habitación y validar consumos pendientes antes de autorizar la salida definitiva. Esta articulación entre áreas resulta fundamental para garantizar control operativo y mantener trazabilidad sobre la operación hotelera.
+              p.mb-0 En muchos establecimientos de alojamiento, el área de recepción mantiene comunicación permanente con departamentos como ama de llaves, restaurante o auditoría para confirmar el estado de la habitación y validar consumos pendientes antes de autorizar la salida definitiva. Esta articulación entre áreas resulta fundamental para garantizar el control operativo y mantener la trazabilidad sobre la operación hotelera.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img05.png", alt="").img-fluid.mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Validación de pagos y generación de factura
-              p.mb-0 Asimismo, durante el cierre de cuenta se revisan anticipos, depósitos o garantías de pago registrados previamente en la reserva del huésped. Esta validación permite confirmar saldos pendientes y asegurar que la cuenta final refleje correctamente los valores asociados a la estadía. Cuando existen inconsistencias, el personal encargado debe atender la situación con claridad y disposición de servicio, evitando afectar negativamente la experiencia del cliente.
+              p.mb-0 Asimismo, durante el cierre de cuenta se revisan anticipos, depósitos o garantías de pago registrados previamente en la reserva del huésped. Esta validación permite confirmar saldos pendientes y asegurar que la cuenta final refleje correctamente los valores asociados a la estadía. Cuando existen inconsistencias, el personal encargado debe atender la situación con claridad y actitud de servicio, evitando afectar negativamente la experiencia del cliente.
             .col-lg-5.col-md-8.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img06.png", alt="").img-fluid.mx-auto
 
@@ -72,7 +72,7 @@
       .col-lg-9
         p.mb-3(data-aos="fade-right") La facturación constituye uno de los procedimientos más sensibles dentro del proceso de salida del huésped, debido a que involucra la consolidación de todos los cargos asociados a la estadía y representa el soporte formal de la transacción realizada entre el huésped y el establecimiento. Una cuenta clara, organizada y correctamente emitida transmite confianza y profesionalismo, mientras que errores en este procedimiento pueden generar inconformidades y afectar la percepción final del servicio.
         .cajon.bg-color-23.p-4.mb-0
-          p.mb-0 Durante esta etapa, el personal encargado debe revisar cuidadosamente la información registrada en el sistema para verificar que los valores correspondan realmente a los servicios consumidos. La validación incluye tarifas de alojamiento, impuestos, descuentos, consumos adicionales y pagos realizados previamente. Esta revisión requiere atención al detalle y manejo adecuado de los procedimientos operativos del establecimiento.
+          p.mb-0 Durante esta etapa, el personal encargado debe revisar cuidadosamente la información registrada en el sistema para verificar que los valores correspondan realmente a los servicios consumidos. La validación incluye tarifas de alojamiento, impuestos, descuentos, consumos adicionales y pagos realizados previamente. Esta revisión requiere atención al detalle y un manejo adecuado de los procedimientos operativos del establecimiento.
 
     p.mb-4 Las inconsistencias más frecuentes durante el proceso de facturación suelen relacionarse con:
 
@@ -104,7 +104,7 @@
             h5.mb-2.text-center Servicios no actualizados
             p.mb-1.text-center Situación: tarifas o servicios no coinciden con la información vigente.
             p.mb-1.text-center Consecuencia: facturación incorrecta o pérdidas económicas.
-            p.mb-0.text-center Recomendación: mantener sincronización y actualización constante de tarifas.
+            p.mb-0.text-center Recomendación: mantener la sincronización y la actualización constante de tarifas.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
@@ -139,7 +139,7 @@
         img(src="@/assets/curso/tema1/img16.png").mx-auto
       .col-lg-10
         p.mb-3 Cuando estas situaciones no son detectadas oportunamente, pueden generar retrasos en el <em>check-out</em>, reclamaciones o ajustes posteriores que afectan la operación hotelera.
-        p.mb-3 Actualmente, muchos establecimientos utilizan sistemas de facturación electrónica integrados al PMS, lo que permite automatizar procesos y mantener trazabilidad sobre las transacciones realizadas. Estas herramientas facilitan la generación de comprobantes, agilizan el cierre de cuenta y fortalecen el control financiero de la operación hotelera.
+        p.mb-3 Actualmente, muchos establecimientos utilizan sistemas de facturación electrónica integrados al PMS, lo que permite automatizar procesos y mantener la trazabilidad sobre las transacciones realizadas. Estas herramientas facilitan la generación de comprobantes, agilizan el cierre de cuenta y fortalecen el control financiero de la operación hotelera.
         p.mb-0 Sin embargo, aunque la tecnología optimiza los procedimientos, la verificación humana continúa siendo fundamental. El personal encargado debe revisar la información antes de emitir la factura definitiva y confirmar con el huésped cualquier duda relacionada con consumos o cargos registrados.
 
 
@@ -161,7 +161,7 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema1/img19.svg").mx-auto
       .col-lg
-        p.mb-0 Durante esta etapa, el huésped puede presentar inquietudes relacionadas con consumos, tiempos de espera, facturación o medios de pago. Frente a estas situaciones, el personal de recepción debe mantener una comunicación clara, respetuosa y profesional, brindando información precisa y demostrando disposición para resolver cualquier novedad presentada.
+        p.mb-0 Durante esta etapa, el huésped puede presentar inquietudes relacionadas con consumos, tiempos de espera, facturación o medios de pago. Frente a estas situaciones, el personal de recepción debe mantener una comunicación clara, respetuosa y profesional, brindando información precisa y demostrando actitud de servicio para resolver cualquier novedad presentada.
 
     p.mb-4 La atención durante el <em>check-out</em> requiere habilidades y buenas prácticas tales como: 
 
@@ -230,7 +230,7 @@
 
       .col-lg-9
         p.mb-3(data-aos="fade-right") Estas soluciones contribuyen a disminuir tiempos de espera y facilitan experiencias más ágiles para el huésped.
-        p.mb-3 En algunos establecimientos, el huésped puede realizar parte del proceso de salida mediante aplicaciones móviles o plataformas de autoservicio, validando consumos y efectuando pagos sin necesidad de interacción presencial permanente con el personal de recepción. Estas tendencias responden a nuevas dinámicas del turismo y a usuarios que valoran rapidez, conectividad y autonomía durante la prestación del servicio.
+        p.mb-3 En algunos establecimientos, el huésped puede realizar parte del proceso de salida mediante aplicaciones móviles o plataformas de autoservicio, validando consumos y efectuando pagos sin necesidad de interacción presencial permanente con el personal de recepción. Estas tendencias responden a nuevas dinámicas del turismo y a huéspedes que valoran rapidez, conectividad y autonomía durante la prestación del servicio.
         p.mb-3 Sin embargo, el uso de herramientas tecnológicas también requiere control y supervisión operativa. La actualización permanente de registros, la verificación de transacciones y la correcta administración de la información continúan siendo aspectos fundamentales para garantizar precisión y seguridad durante el proceso de salida.
 
         .bg-fondo-5.px-lg-4.py-lg-4.px-4.py-3.br-15.mb-0

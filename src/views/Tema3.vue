@@ -38,7 +38,7 @@
           p.mb-0 La atención brindada durante el proceso de salida representa uno de los momentos más sensibles dentro de la experiencia del huésped. Aunque el huésped haya permanecido varios días en el establecimiento, el recuerdo final del servicio suele construirse a partir de la manera en que se desarrolla el <em>check-out</em>. Por esta razón, el personal encargado debe procurar que este procedimiento se realice de manera organizada, cordial y eficiente.
 
         p.mb-3 La calidad del servicio durante la salida no depende únicamente de la rapidez en los procesos administrativos. También involucra aspectos relacionados con la comunicación, la actitud del personal, la disposición para resolver inquietudes y la capacidad de generar un ambiente de atención respetuoso y profesional. Un huésped que percibe interés genuino y acompañamiento adecuado durante el cierre de su estadía tendrá mayores posibilidades de regresar o recomendar el establecimiento.
-        p.mb-0 Dentro de la operación hotelera, la atención al huésped durante el <em>check-out</em> exige una serie de elementos claves que fortalecen la calidad del servicio. Dichos elementos son:
+        p.mb-0 Dentro de la operación hotelera, la atención al huésped durante el <em>check-out</em> exige una serie de elementos clave que fortalecen la calidad del servicio. Dichos elementos son:
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -95,7 +95,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
         .cajon.bg-color-23.p-4.mb-0
-          p.mb-0 Estas competencias resultan fundamentales para mantener calidad en la atención incluso durante situaciones complejas o momentos de alta ocupación.
+          p.mb-0 Estas competencias resultan fundamentales para mantener la calidad en la atención incluso durante situaciones complejas o momentos de alta ocupación.
 
 
     separador
@@ -116,7 +116,7 @@
           .col-lg-12.d-none.d-lg-flex.mb-0.mb-lg-2
             img(src="@/assets/curso/tema3/img07.svg", style="max-width: 80px")
           .col-lg
-            p.mb-3 Uno de los casos más frecuentes corresponde a diferencias relacionadas con facturación o consumos registrados en la cuenta huésped. En estas situaciones, el personal debe verificar cuidadosamente la información antes de emitir una respuesta, manteniendo una actitud tranquila y orientada a la solución. La claridad en la comunicación y la disposición para revisar el caso contribuyen a disminuir tensiones y fortalecer la confianza del huésped.
+            p.mb-3 Uno de los casos más frecuentes corresponde a diferencias relacionadas con la facturación o consumos registrados en la cuenta del huésped. En estas situaciones, el personal debe verificar cuidadosamente la información antes de emitir una respuesta, manteniendo una actitud tranquila y orientada a la solución. La claridad en la comunicación y la disposición para revisar el caso contribuyen a disminuir tensiones y fortalecer la confianza del huésped.
             p.mb-0 También es frecuente encontrar novedades asociadas a:
 
       .col-lg-6.col-md-12

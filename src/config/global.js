@@ -2,7 +2,7 @@ export default {
   global: {
     Name: '<em>Check-out</em> y atención de PQRS',
     Description:
-      'El componente formativo <em>Check-out</em> y atención de PQRS aborda los procedimientos técnicos y operativos relacionados con la salida del huésped, la gestión de pagos, la atención de inconformidades y la calidad del servicio en establecimientos de alojamiento. Además, incorpora elementos asociados a transformación digital, automatización de procesos y atención virtual al cliente dentro de la operación hotelera moderna.',
+      'El componente formativo <em>Check-out</em> y atención de PQRS aborda los procedimientos técnicos y operativos relacionados con la salida del huésped, la gestión de pagos, la atención de inconformidades y la calidad del servicio en establecimientos de alojamiento. Asimismo, incorpora contenidos relacionados con la transformación digital de los servicios de alojamiento, incluyendo la digitalización y automatización de procesos operativos, el uso de herramientas tecnológicas para la gestión del servicio y la atención al cliente mediante canales virtuales, de acuerdo con las necesidades y tendencias del sector hotelero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [],

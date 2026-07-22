@@ -46,7 +46,7 @@
               .col-8  
                 img(src='@/assets/curso/tema4/img04.svg' alt="", style="width: 100px;").mx-auto
             h5.mb-2.text-center Facturación electrónica
-            p.mb-0.text-center Para generar soportes digitales y agiliza el cierre de cuenta.
+            p.mb-0.text-center Para generar soportes digitales y agilizar el cierre de cuenta.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
