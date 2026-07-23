@@ -281,7 +281,7 @@
 
     .row.mb-5
       .col-lg-12
-        p.mb-3 Actualmente, muchos establecimientos utilizan plataformas digitales para gestionar y monitorear PQRS, permitiendo fortalecer la organización operativa y ejercer un mayor control sobre las respuestas ofrecidas a los huéspedes
+        p.mb-3 Actualmente, muchos establecimientos utilizan plataformas digitales para gestionar y monitorear PQRS, permitiendo fortalecer la organización operativa y ejercer un mayor control sobre las respuestas ofrecidas a los huéspedes.
         p.mb-0 La tabla a continuación presenta diferentes herramientas digitales y su aplicación en la gestión de PQRS en hoteles y establecimientos turísticos:
 
           
